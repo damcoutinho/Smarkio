@@ -1,6 +1,6 @@
 # Smarkio
 
-Repositório público, preparado como etapa obrigatória do processo seletivo **492051 - Data Science e Machine Learning**, da empresa Smarkio, em 2021.
+Repositório público, preparado para a etapa "_Teste Prático Ciência de Dados_" do processo seletivo **492051 - Data Science e Machine Learning**, da empresa Smarkio, em 2021.
 
 ## Arquivos
 
